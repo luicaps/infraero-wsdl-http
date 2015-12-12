@@ -1,4 +1,4 @@
-# infraero-wsdl-restapi
+# infraero-wsdl-http
 API simples em NodeJS que utiliza o servido WSDL da Infraero e externaliza seus serviços como uma API HTTP
 
 # Como usar
