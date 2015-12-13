@@ -1,5 +1,5 @@
 # infraero-wsdl-http
-A Simple NodeJS API which uses the WSDL server from Infraero of Brazilian flight status and externalize the data as an API, outputing a json for each request easily accessible.
+A Simple NodeJS API which uses the WSDL server from Infraero of Brazilian flight status and externalize the data as an API, outputing a json for each request.
 
 # About this project
 To this date there is no machine-friendly way to extract flight status data from Brazilian flights. According to the Brazilian Information Access Law , all public organizations must release data which is either generated or guarded by them in a machine readable format. Since these flight status are one of these guarded data and are already publicized in non-machine-readable formats (thus confirming that they are not classified and that their disclosure is not a threat to the country's safety), it is safe to assume that they could be released in a machine readable format.
